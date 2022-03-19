@@ -15,7 +15,7 @@
 
 - 🤝 To ask me questions **theFounder19#1111**
 
-- 👨‍💻 I'm interested in [Making Minecraft servers and Discord bots](Making Minecraft servers and Discord bots)
+- 👨‍💻 I'm interested in **Making Minecraft servers and Discord bots**
 
 - 💬 Ask me about **Can you create me a Minecraft server?**
 
