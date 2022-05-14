@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/rbstsoul" target="blank"><img src="https://img.shields.io/twitter/follow/rbstsoul?logo=twitter&style=for-the-badge" alt="rbstsoul" /></a> </p>
 
-- 🔭 I’m currently working on **KREUS NETWORK**
+- 🔭 I’m currently working on **NyksCraft**
 
 - 🌱 I’m currently learning **Java and Spigot library**
 
 - 💬 DON'T ask me about **hey i want to create a minecraft server better than hypixel so good skywars bedwars can you create me a server for free? i will advertise you for free in my 5 sub yt channel pls**
 
-- 🤝 To ask me questions **theFounder19#1111**
+- 🤝 To ask me questions **Deliable#1111**
 
 - 👨‍💻 I'm interested in **Making Minecraft servers and Discord bots**
 
